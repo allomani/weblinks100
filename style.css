@@ -1,0 +1,108 @@
+FONT {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; 
+	}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; 
+}
+BODY {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; 
+	}
+P {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; 
+	}
+DIV {
+FONT-SIZE: 8pt; FONT-FAMILY: Tahoma; 
+}
+
+A:link {
+	FONT-SIZE: 8pt; COLOR: #0066CC; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
+
+A:active {
+	FONT-SIZE: 8pt; COLOR: #0066CC; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+
+}
+A:visited {
+	FONT-SIZE: 8pt; COLOR: #0066CC; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 8pt; COLOR: #007CF9; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
+A:link.big {
+	FONT-SIZE: 15px; COLOR: #0066CC; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
+
+A:active.big {
+	FONT-SIZE: 15px; COLOR: #0066CC; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+
+}
+A:visited.big {
+	FONT-SIZE: 15px; COLOR: #0066CC; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover.big {
+	FONT-SIZE: 15px; COLOR: #007CF9; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.title {
+	FONT-SIZE: 10pt; BACKGROUND: ; COLOR: #215dc6; FONT-FAMILY: Tahoma; TEXT-DECORATION: none; font-weight:bold
+}
+.content {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sans Serif
+}
+.block-title {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sans Serif
+}
+.storytitle {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #1266a5; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.storycat {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.boxtitle {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.boxcontent {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sana Serif, MS Sans Serif
+}
+.option {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.tiny {
+	FONT-WEIGHT: normal; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.small {
+	FONT-WEIGHT: normal; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.ds {
+	FILTER: dropshadow(color=#9FC4DC,offx=1, offy=1, positive=2), glow(color=#9FC4DC, strength=0); WIDTH: 100%; COLOR: #1266a5
+}
+.ds2 {
+	FONT-SIZE: 8px; FILTER: dropshadow(color=#9FC4DC,offx=1, offy=1, positive=1), glow(color=#9FC4DC, strength=0); WIDTH: 100%; COLOR: #e4c35e
+}
+/**************************************************************************************/
+
+table.browse {
+	border: 0px;
+	
+	color: #333;
+}
+
+
+table.browse td{
+	
+	padding: 0px; height: 23 ; 	
+}
+
+table.browse th {
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+	font-size:12px;
+	
+}
+
+table.browse tr.odd th, table.browse tr.odd td {
+	background: #efefef;
+}
